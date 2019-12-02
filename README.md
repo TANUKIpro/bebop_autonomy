@@ -86,3 +86,6 @@ Built against [parrot_arsdk](https://github.com/AutonomyLab/parrot_arsdk) 3.12.6
     * Landing
         - /bebop/land にパブリッシュしてやる  
     `$rostopic pub /bebop/land std_msgs/Empty`
+
+4. 動かしてみる  
+    いつか書く。[ここ見とけ](https://www.ntt-tx.co.jp/column/yasui_blog/20160309/)
